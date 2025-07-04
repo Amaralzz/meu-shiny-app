@@ -1,7 +1,7 @@
 
 import pandas as pd
 import altair as alt
-from shiny import ui, input, render
+from shiny.express import ui, input, render
 from shinywidgets import render_altair
 
 
